@@ -1,6 +1,9 @@
 # MellGameTest (MLGT)
 
-![Logo](https://github.com/KozakFN/mellgametest/raw/main/5abf1647-ea29-41bb-af66-327b48ef5a0f.png)
+<p align="center">
+  <img src="https://github.com/KozakFN/mellgametest/raw/main/5abf1647-ea29-41bb-af66-327b48ef5a0f.png" alt="MellGameTest Logo" width="300">
+</p>
+
 
 **MellGameTest (MLGT)** — тестовый токен игрового проекта **MellstroyGame**, созданный для проверки интеграции смарт-контрактов и системных возможностей внутри игровой экосистемы.
 
